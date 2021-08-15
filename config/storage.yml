@@ -12,7 +12,7 @@ amazon:
   access_key_id: AKIAUGIVMH6H2GJWPIUI
   secret_access_key: LJRT8TbE86p8IDWzLSII3T12nOPU0BVaFArW8J45
   region: sa-east-1
-  bucket: catalago2
+  bucket: catalogo2
 
 # Remember not to checkin your GCS keyfile to a repository
 # google:
